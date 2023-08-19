@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashraj Devrat</h1>
-<h3 align="center">A passionate c++ developer from India</h3>
+<h3 align="center">A Passionate c++ Developer from Pune</h3>
 
 <img align="right" alt="coding" width="400" img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj9011&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj9011" /> </p>
