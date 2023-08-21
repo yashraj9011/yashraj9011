@@ -1,6 +1,9 @@
+
+![Logo](https://github.com/yashraj9011/yashraj9011/blob/main/IMG_20230821_205020.jpg)
+
 <h1 align="center">Hi 👋, I'm Yashraj Devrat</h1>
 <h3 align="center">A Passionate c++ Developer from India</h3>
-
+<img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 - 🌱 I’m currently learning **Software Testing**
 
 - 📫 How to reach me **yashrajdevrat3042@gmail.com**
