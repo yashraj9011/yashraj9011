@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/yashraj9011/yashraj9011/blob/main/IMG_20230821_205020.jpg)
+![Logo](https://github.com/yashraj9011/yashraj9011/blob/main/Laptop.jpg)
 
 <h1 align="center">Hi 👋, I'm Yashraj Devrat</h1>
 <h3 align="center">A Passionate c++ Developer from Pune</h3>
