@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/yashraj9011/yashraj9011/blob/main/1554202042-Vidya%20Pratishthans%20Kamalnayan%20Bajaj%20Institute%20of%20Engineering%20and%20Technology%2C%20Baramati%20b.jpg)
+![Logo](http)
 
 <h1 align="center">Hi 👋, I'm Yashraj Devrat</h1>
 <h3 align="center">A Passionate C++ Developer from Pune</h3>
