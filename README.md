@@ -5,7 +5,7 @@
 <h3 align="center">Interested in Developing Applications using C++ </h3>
 <img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
- - 🌱 I’m currently learning Software Testing
+ - 🌱 I’m currently learning Machine Learning
 
 - 📫 How to reach me yashrajdevrat3042@gmail.com
 
