@@ -2,7 +2,7 @@
 ![Logo](https://github.com/yashraj9011/yashraj9011/blob/main/1554202042-Vidya%20Pratishthans%20Kamalnayan%20Bajaj%20Institute%20of%20Engineering%20and%20Technology%2C%20Baramati%20b.jpg)
 
 <h1 align="center">Hi 👋, I'm Yashraj Devrat</h1>
-<h3 align="center">Interested in Developing Applications using C++ </h3>
+<h3 align="center">Interested in Coding using C++ </h3>
 <img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
  - 🌱 I’m currently learning Machine Learning
