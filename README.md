@@ -10,7 +10,7 @@
  - 👨‍💻 I have good knowledge in the field of Software Development as I have studied Software Engineering , Design Thinking ,
     Software Modelling and Architecture , Data Modelling and Visualization and Distributed Computing .
    
-- 📫 How to reach me yashrajdevrat3042@gmail.com
+- 📫 How to reach me yashrajdevrat77@gmail.com
 
 - ⚡ Fun fact **Cool Guy**
 
