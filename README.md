@@ -5,8 +5,11 @@
 <h3 align="center">Interested in Coding using C++ </h3>
 <img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
- - 🌱 I’m currently exploring Data Science , Machine Learning and Deep Learning .
-
+ - 🌱 I’m currently learning Computational Intelligence , Big Data Analytics and Business Intelligence
+ -  I have keen interest in Data Science , Machine Learning and Deep Learning .
+ -  I have good knowledge of Software Development Field as I have obtained credits in Software Engineering , Design Thinking ,
+    Software Modelling and Architecture , Data Modelling and Visualization and Distributed Computing .
+   
 - 📫 How to reach me yashrajdevrat3042@gmail.com
 
 - ⚡ Fun fact **Cool Guy**
