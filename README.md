@@ -7,7 +7,7 @@
 
  - 🌱 I’m currently learning Computational Intelligence , Big Data Analytics and Business Intelligence .
  - 🔭 I have keen interest in Data Science , Machine Learning and Deep Learning .
- - 👨‍💻 I have good knowledge in the field of Software Development as I studied Software Engineering , Design Thinking ,
+ - 👨‍💻 I have good knowledge of Software Development as I studied Software Engineering , Design Thinking ,
     Software Modelling and Architecture , Data Modelling and Visualization and Distributed Computing .
    
 - 📫 How to reach me yashrajdevrat77@gmail.com
